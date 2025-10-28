@@ -1,0 +1,1 @@
+var e="js-app-headlines--violet",p="js-app-line-height--one-and-half",a="js-app-theme--dark",s="js-app-theme-link-element",t="js-app-theme--light",n="js-app-wrapper-max-width--none";export{e as a,p as b,a as c,s as d,t as e,n as f};
